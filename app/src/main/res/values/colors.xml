@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--  GRAY  -->
+    <color name="gray0">#F6F6F6</color>
+    <color name="gray50">#E1E2E2</color>
+    <color name="gray100">#CCCED0</color>
+    <color name="gray200">#B0B5B8</color>
+    <color name="gray300">#969CA1</color>
+    <color name="gray400">#7C848B</color>
+    <color name="gray500">#636D75</color>
+    <color name="gray600">#50575D</color>
+    <color name="gray700">#3D4145</color>
+    <color name="gray800">#2B2D2F</color>
+    <color name="gray900">#1A1A1A</color>
+
+    <!--  RED  -->
+    <color name="red0">#FAC7CB</color>
+    <color name="red50">#fb8c94</color>
+    <color name="red100">#fa6a74</color>
+    <color name="red200">#f94754</color>
+    <color name="red300">#f82433</color>
+    <color name="red400">#f30617</color>
+    <color name="red500">#d00514</color>
+    <color name="red600">#ad0410</color>
+    <color name="red700">#8a030d</color>
+    <color name="red800">#68020a</color>
+    <color name="red900">#450106</color>
+
+    <!--  GREEN  -->
+    <color name="green50">#b7efc5</color>
+    <color name="green100">#92e6a7</color>
+    <color name="green200">#6ede8a</color>
+    <color name="green300">#4ad66d</color>
+    <color name="green400">#2dc653</color>
+    <color name="green500">#25a244</color>
+    <color name="green600">#208b3a</color>
+    <color name="green700">#1a7431</color>
+    <color name="green800">#155d27</color>
+    <color name="green900">#10451d</color>
+</resources>
